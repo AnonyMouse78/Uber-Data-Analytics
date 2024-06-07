@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project involves analyzing Uber ride data to uncover insights and trends. The analysis was conducted using various tools and platforms, including Google Cloud Platform (GCP),Compute Instance, Mage.ai, BigQuery and Looker Studio.
+This project involves analyzing TLC Trip Record Data to gain valuable insights into Uber ride patterns. By examining ride data, including pick-up and drop-off times, locations, distances, fares, and passenger counts, we identified key trends and patterns. The analysis aims to uncover peak ride hours, high-demand areas, and fare trends to help optimize Uber's operations. The results offer actionable insights to improve service efficiency, enhance customer satisfaction, and inform strategic decision-making for better operational management. The analysis was conducted using various tools and platforms, including Google Cloud Platform (GCP), Compute Instance, Mage.ai, BigQuery and Looker Studio.
 
 ## Tools and Technologies
 
-Google Cloud Platform (GCP): Used for data storage and processing.
-Mage: Utilized for data transformation and orchestration.
-Looker Studio: Employed for creating interactive dashboards and visualizing data insights.
+- Google Cloud Platform (GCP): Used for data storage and processing
+- Mage: Utilized for data transformation and orchestration
+- Looker Studio: Employed for creating interactive dashboards and visualizing data insights
 
 ## Dataset
 
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Website:  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Website:  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page <br />
 Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Orchestration
